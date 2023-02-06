@@ -1,0 +1,2 @@
+# Euler-Challenges
+For fun
