@@ -10,4 +10,4 @@ About Project Euler
  
  Use Cases:
 
-Expands my programming knowledge
+ - Expands my programming knowledge
