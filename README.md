@@ -1,4 +1,4 @@
-# Euler-Challenges
+# Euler Challenges
 For fun
 
 Created: 12/22/2021 - 04/20/2022
